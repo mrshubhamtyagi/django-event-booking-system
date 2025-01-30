@@ -1,0 +1,6 @@
+djangorestframework
+django-extensions
+django-storages
+django-environ
+pillow
+boto3
